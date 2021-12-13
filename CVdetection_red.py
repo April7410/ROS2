@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#######3nothing
 cap = cv2.VideoCapture("/dev/video2")
 
 while(True):
